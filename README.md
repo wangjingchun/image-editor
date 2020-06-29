@@ -1,2 +1,1 @@
-# image-editor
-An Image Editor
+### 图片处理类

@@ -1,0 +1,22 @@
+{
+  "name": "wangjingchun/image-editor",
+  "description": "An Image Editor",
+  "type": "library",
+  "keywords": ["image", "editor"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wangjingchun",
+      "email": "975235798@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "wangjingchun\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "kosinix/grafika": "2.0.8"
+  }
+}
